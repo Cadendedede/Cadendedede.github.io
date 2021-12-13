@@ -1,4 +1,4 @@
-## About This Website
+## Caden's Hub
 
 Welcome to Caden's hub, the owner, Caden Mach is a small indie game developer working towards giving students fun games to play!
 
