@@ -7,3 +7,5 @@ Welcome to Caden's hub, the owner, Caden Mach is a small indie game developer wo
 ## Featured Games
 
 This website features many games created by Caden Mach.
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6869511444125624"
+     crossorigin="anonymous"></script>
