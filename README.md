@@ -7,22 +7,11 @@ Demo: [http://website-templates.github.io/portfolio_one-page-template](http://we
 ![Mockup demo](screenshots/pic.jpg)
 Product mockup created with [http://magicmockups.com/](http://magicmockups.com/)
 
-## Contents
+## All Games
 
-- [Folder and file structure](#folder-and-file-structure)
-- [Requirements:](#requirements)
-    - [Editorconfig](#editorconfig)
-- [How to start](#how-to-start)
-- [Site configuration](#site-configuration)
-- [Tasks](#tasks)
-    - [Cleanup](#cleanup)
-    - [Dev](#dev)
-    - [Build](#build)
-    - [Rebuild](#rebuild)
-    - [Server](#server)
-    - [Sprite](#sprite)
-- [Live reload](#live-reload)
-- [License](#license)
+- [The Facility](https://cadendedede.github.io/betafacility)
+- [The Facility 2](https://cadendedede.github.io/thefacility2demodemo)
+- [The Swordsman](https://cadendedede.github.io/platformer)
 
 ## Folder and file structure
 
