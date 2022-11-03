@@ -1,4 +1,4 @@
-# Portfolio one page template - ARCHIVED
+# Caden's Hub
 
 Flat and responsive website template, designed and coded by [Maxim Orlov](https://github.com/orlovmax).
 
